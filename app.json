@@ -16,11 +16,11 @@
       },
       "APP_ID": {
          "description": "my.telegram.org adresindən APP ID alın.",
-         "value": "16102648"
+         "value": "12349641"
       },
       "API_HASH": {
          "description": "my.telegram.org adresindən API HASH alın",
-         "value": "378a73e340eb634cf67c8c42bafa9f37"
+         "value": "0f9159afc920f9c592df555e4b1cb73b"
       },
       "USERNAME": {
          "description": "Botun kullanıcı adı yazınız @ işareti olmadan",
