@@ -588,6 +588,6 @@ async def rtag(event):
 ###############################
 
 
-print(">> Bot çalışmaktadur merak etme 🚀 @mutsuz_panda bilgi alabilirsin <<")
+print(">> Bot çalışmaktadur merak etme 🚀 @Thagiyevv bilgi alabilirsin <<")
 client.run_until_disconnected()
 run_until_disconnected()
